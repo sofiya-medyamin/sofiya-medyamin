@@ -8,8 +8,10 @@ I’m currently expanding my knowledge and brushing my skills in:
 - 🍄 Data Visualization, Data exploration
 - 🌷 Data Modelling & Machine Learning
 
+  Feel free to check out my UI/UX portfolio! https://aininsofiya-medyamin.my.canva.site/             
 P.S. I'm working on a ML project for fraud detection at the moment, I will be sharing it on GitHub right once it's ready! ₍^. .^₎⟆ 
-  
+
+
 
 <!---
 sofiya-medyamin/sofiya-medyamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
