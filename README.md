@@ -5,8 +5,8 @@ I'm someone who started my journey with a passion for UI/UX design, enjoying the
 
 I’m currently expanding my knowledge and brushing my skills in: 
 - 🌱 Data Wrangling & Preprocessing
-- 🍄 Data Visualization, Data exploration
-- 🌷 Data Modelling & Machine Learning
+- 🍄 Data Visualization, Data exploration  &
+- 🌷 Machine Learning
 
   Feel free to check out my UI/UX portfolio! https://aininsofiya-medyamin.my.canva.site/
 
