@@ -10,8 +10,7 @@ I’m currently expanding my knowledge and brushing my skills in:
 
   Feel free to check out my UI/UX portfolio! https://aininsofiya-medyamin.my.canva.site/
 
-  
-P.S. I'm working on a ML project for fraud detection at the moment, I will be sharing it on GitHub once it's ready! ₍^. .^₎⟆ 
+P.S. I have just uploaded a recent ML project for credit card fraud detection! ₍^. .^₎⟆ 
 
 
 
